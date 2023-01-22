@@ -1,6 +1,6 @@
 # dsl-data-mining
 
-####### PARTICIPANTS TEAM F ########
+####### PARTICIPANTS: TEAM F ########
 - Nabil ABBAR
 - Lidaou Denis ASSOTI
 - Yassine BOUKHIRI
