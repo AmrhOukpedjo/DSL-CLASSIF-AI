@@ -1,6 +1,6 @@
 # dsl-data-mining
 
-### MEMBRES DU GROUPE 
+##########PARTICIPANTS
 - Nabil ABBAR
 - Lidaou Denis ASSOTI
 - Yassine BOUKHIRI
